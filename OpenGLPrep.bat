@@ -1,3 +1,4 @@
+cd C:\Users\student
 git clone https://github.com/TylerW546/OpenGLBase
 cd OpenGLBase
 meson build
